@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #faf8ef;
+  color: #776e65;
+  font-family: 'Clear Sans', "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+body {
+  margin-bottom: 80px;
+}
+
+div {
+  display: block;
+}
+
+h1.title {
+  margin: 0;
+  display: block;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+
+.heading {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+#field {
+  border: 1px solid black;
+  margin: auto;
+  width: 500px;
+  background: #bbada0;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.cell {
+  border: 1px solid hsl(29, 36%, 42%);
+  text-align: center;
+  width: 122px;
+  height: 122px;
+  padding: 0;
+}
